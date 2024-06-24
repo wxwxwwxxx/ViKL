@@ -13,6 +13,8 @@ Our research yields significant findings:
   
 The MVKL dataset and ViKL code are publicly available at here to support a broad spectrum of future research.
 
-## Code and Dataset
+## Code 
 The repository currently contains unarranged code of ViKL. Detailed documentation and comments will be provided after paper publication.
-Meanwhile, our dataset will be publicly available after paper publication. Please stay tuned. 
+
+## Dataset
+Meanwhile, our [dataset](https://ucasaccn-my.sharepoint.com/:u:/g/personal/weixin_ucas_ac_cn/Een92f7S_6BHpOu6MRdtbBwB9juzT0EsNcAIgwuh3dbcbg?e=2dxxpK) will be publicly available after paper publication. Please stay tuned. 
