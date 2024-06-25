@@ -17,4 +17,5 @@ The MVKL dataset and ViKL code are publicly available at here to support a broad
 The repository currently contains unarranged code of ViKL. Detailed documentation and comments will be provided after paper publication.
 
 ## Dataset
-Meanwhile, our [dataset](https://ucasaccn-my.sharepoint.com/:u:/g/personal/weixin_ucas_ac_cn/Een92f7S_6BHpOu6MRdtbBwB9juzT0EsNcAIgwuh3dbcbg?e=2dxxpK) will be publicly available after paper publication. Please stay tuned. 
+We have made the dataset publicly available at this [link](https://ucasaccn-my.sharepoint.com/:u:/g/personal/weixin_ucas_ac_cn/Een92f7S_6BHpOu6MRdtbBwB9juzT0EsNcAIgwuh3dbcbg?e=2dxxpK). 
+For details about the dataset, please refer to the Readme.md file in the compressed archive.
